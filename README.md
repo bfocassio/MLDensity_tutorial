@@ -1,5 +1,7 @@
 Full files with CHG densities: https://www.dropbox.com/s/hhv2klie7slp833/tutorial_MLChargeDensity.zip?dl=0
 
+Slides: https://docs.google.com/presentation/d/19w3Ekzgh7BMP_uck4IEirDW5GcV74V8xy7g3HHsiVDk/edit?usp=sharing
+
 First, install required packages:
 
 ```
